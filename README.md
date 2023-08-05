@@ -7,9 +7,9 @@ Date: August, 2023.
 
 - The course is instructed by Engineer Kiran Nayak.
 
-- The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course4_Mastering-Microcontroller-Timers-PWM-CAN-Low-Power-MCU2/blob/main/Certificate.pdf) is available. 
+- The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course5_Mastering-Microcontroller-STM32-LTDC-LCD-TFT-LVGL-MCU3/blob/main/Certificate.pdf) is available. 
 
-- The [**Output Results**](https://github.com/renatosoriano/Udemy-Embedded-Course4_Mastering-Microcontroller-Timers-PWM-CAN-Low-Power-MCU2/blob/main/Target_Workspace) are available. 
+- The [**Output Results**](https://github.com/renatosoriano/Udemy-Embedded-Course5_Mastering-Microcontroller-STM32-LTDC-LCD-TFT-LVGL-MCU3/blob/main/Target_Workspace) are available. 
 
 ## Descriptions
 
