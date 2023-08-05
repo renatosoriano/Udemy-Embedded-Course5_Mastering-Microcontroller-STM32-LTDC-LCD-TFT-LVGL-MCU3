@@ -1,0 +1,7 @@
+/Users/renatosoriano/FastBit_Embedded_Courses_Udemy/Course5_Workspace/My_workspace/target/003_RGB_Mixer/lvgl/src/hal/../draw/../misc/lv_color.h:588:26:lv_color_make	16	static
+/Users/renatosoriano/FastBit_Embedded_Courses_Udemy/Course5_Workspace/My_workspace/target/003_RGB_Mixer/lvgl/src/hal/../draw/../misc/lv_color.h:693:26:lv_color_black	8	static
+/Users/renatosoriano/FastBit_Embedded_Courses_Udemy/Course5_Workspace/My_workspace/target/003_RGB_Mixer/lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+/Users/renatosoriano/FastBit_Embedded_Courses_Udemy/Course5_Workspace/My_workspace/target/003_RGB_Mixer/lvgl/src/widgets/lv_slider.h:106:20:lv_slider_set_range	24	static
+/Users/renatosoriano/FastBit_Embedded_Courses_Udemy/Course5_Workspace/My_workspace/target/003_RGB_Mixer/lvgl/src/widgets/lv_slider.h:130:23:lv_slider_get_value	16	static
+../LVGL.Simulator/rgb_mixer.c:13:6:slider_callback	40	static
+../LVGL.Simulator/rgb_mixer.c:33:6:rgb_mixer_create_ui	40	static

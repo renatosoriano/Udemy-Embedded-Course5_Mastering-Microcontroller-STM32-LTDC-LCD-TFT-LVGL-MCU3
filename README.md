@@ -7,7 +7,9 @@ Date: August, 2023.
 
 - The course is instructed by Engineer Kiran Nayak.
 
+- The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course4_Mastering-Microcontroller-Timers-PWM-CAN-Low-Power-MCU2/blob/main/Certificate.pdf) is available. 
 
+- The [**Output Results**](https://github.com/renatosoriano/Udemy-Embedded-Course4_Mastering-Microcontroller-Timers-PWM-CAN-Low-Power-MCU2/blob/main/Target_Workspace) are available. 
 
 ## Descriptions
 
@@ -26,7 +28,7 @@ Second part of the course covers:
 3. LVGL widgets and their usage, APIs.
 4. Create UI application using LVGL.
 5. Testing LVGL application on PC simulator and different STM32 development boards.
-6. Student project.
+6. Final project.
 
 ## Requirements
 
